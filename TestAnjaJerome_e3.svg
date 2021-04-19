@@ -1,21 +1,26 @@
 <svg version="1.1" 
 	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1190.4 841.68"
 	 style="enable-background:new 0 0 1190.4 841.68;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:none;stroke:#181716;stroke-width:0.5;stroke-miterlimit:10;}
-	.st1{opacity:0.6;fill:#82BE32;}
-	.st2{opacity:0.8;fill:#82BE32;}
-	.st3{fill:#82BE32;}
+<style>
+  .st1, .st2, .st3 {
+    fill:#ffffffcf;stroke:#181716;stroke-width:0.5;stroke-miterlimit:10;
+    transition-property: background-color, border-color, color, fill, stroke;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 150ms;
+  }
+	.st0:hover .st1{opacity:0.6;fill:#82BE32;}
+	.st0:hover .st2{opacity:0.8;fill:#82BE32;}
+	.st0:hover .st3{fill:#82BE32;}
 </style>
 		<g id="Treppenhaus9b_1_">
-			<g id="_x39_b-102_1_">
+			<g id="_x39_b-102_1_" class="st0">
 				<polygon class="st1" points="144.54,467.05 363.22,387.03 403.21,412.47 375.54,422.59 401.52,439.8 383.3,446.47 
 					491.14,517.91 365.58,572.68 				"/>
 				<polygon class="st2" points="144.54,467.05 365.58,572.68 365.58,624.33 144.54,518.7 				"/>
 				<polygon class="st3" points="365.58,572.68 491.14,517.91 491.14,569.55 365.58,624.33 				"/>
 				<polygon class="st3" points="375.54,422.59 403.21,412.47 403.21,459.66 383.3,446.47 401.52,439.8 				"/>
 			</g>
-			<g id="_x39_b-103_2_">
+			<g id="_x39_b-103_2_" class="st0">
 				<polygon class="st1" points="144.54,420.78 363.22,340.75 403.21,366.19 375.54,376.32 401.52,393.53 383.3,400.2 
 					491.14,471.63 365.58,526.41 				"/>
 				<polygon class="st2" points="144.54,420.78 144.54,467.05 365.58,572.68 365.58,526.41 				"/>
@@ -23,14 +28,12 @@
 				<polygon class="st3" points="403.21,412.47 401.52,411.39 401.52,412.26 383.92,400.2 401.52,393.53 375.54,376.32 
 					403.21,366.19 				"/>
 			</g>
-			<g id="_x39_b-104_1_">
-				<g>
+			<g id="_x39_b-104_1_" class="st0">
 					<polygon class="st1" points="144.54,374.5 363.22,294.48 403.21,319.92 375.54,330.04 401.52,347.25 383.3,353.92 
 						491.14,425.36 365.58,480.13 					"/>
 					<polygon class="st2" points="144.54,374.5 365.58,480.13 365.58,526.41 144.54,420.78 					"/>
 					<polygon class="st3" points="365.58,480.13 491.14,425.36 491.14,471.63 365.58,526.41 					"/>
 					<polygon class="st3" points="403.21,319.92 375.54,330.04 401.52,347.25 383.3,353.92 403.21,366.19 					"/>
-				</g>
 			</g>
 		</g>
 </svg>
